@@ -1,37 +1,23 @@
 # Apps and Emulators
 
 ## Included
-- AetherSX2
-- Dolphin - MMJR2
-- Dolphin
-- Citra
-- PPSSPP
-- redream
-- M64Plus FZ Pro
-- DraStic
-- Yaba Sanshiro 2
-- Openbor
-- Mandarine
-- DuckStation
-- GBA.emu
-- GBC.emu
-- MD.emu
-- NEO.emu
-- NGP.emu
-- NES.emu
-- MSX.emu
-- PCE.emu
-- Snes9 EX+
-- DosBox Turbo
-- Flycast
-- EasyRPG Player
-- RetroArch
-- Moonlight
-- RixelHKJ
-- Cemu
-- XBPlay
-- GeForce Now
-- Aptoide
-- Gamepad Tester
+|---|---|
+|---|---|
+| AetherSX2 | M64Plus FZ Pro  |
+| Aptoide | Mandarine  |
+| Cemu | MD.emu |
+| Citra | Moonlight |
+| Dolphin | MSX.emu |
+| Dolphin - MMJR2 | NEO.emu |
+| DosBox Turbo | NES.emu |
+| DraStic | NGP.emu |
+| DuckStation | Openbor |
+| EasyRPG Player | PCE.emu |
+| Flycast | PPSSPP |
+| Gamepad Tester | redream |
+| GBA.emu | RetroArch |
+| GBC.emu | RixelHK |
+| GeForce Now | Snes9 EX+ |
+| XBPlay | Yaba Sanshiro 2 |
 
 ## Recommended
