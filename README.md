@@ -1,4 +1,7 @@
 # Anbernic RG557
+- [**Guides**](https://github.com/admyrick/rg557/tree/main/guides)
+- [**Scripts**](https://github.com/admyrick/rg557/tree/main/scripts)
+- [**Apps & Emulators**](https://github.com/admyrick/rg557/blob/main/apps-emulators.md)
 
 ## Specs
 | ****                   | Spec                                                                                                                                |
