@@ -32,7 +32,12 @@
 | **Release**            | 2025-04                                                                                                                             |
 | **Retail Price**       | $249.99                                                                                                                             |
 
-
+## Links
+- [Anbernic Direct](https://rh-go.link/RG557)
+- [AliExpress](https://rh-go.link/RG557_AE)
+- [Amazon](https://rh-go.link/RG557_Amzn)
+- [WhatGeek](https://rh-go.link/RG557_WG)
+- 
 
 ## Scripting
 - Available Governors
