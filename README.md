@@ -32,12 +32,15 @@
 | **Release**            | 2025-04                                                                                                                             |
 | **Retail Price**       | $249.99                                                                                                                             |
 
+[^ Back to top](https://github.com/admyrick/rg557/#anbernic-rg557)
+
 ## Links
 - [Anbernic Direct](https://rh-go.link/RG557)
 - [AliExpress](https://rh-go.link/RG557_AE)
 - [Amazon](https://rh-go.link/RG557_Amzn)
 - [WhatGeek](https://rh-go.link/RG557_WG)
-- 
+
+[^ Back to top](https://github.com/admyrick/rg557/#anbernic-rg557)
 
 ## Scripting
 - Available Governors
@@ -48,12 +51,16 @@
 4. Tap the '+' button
 5. Open one of the files and tap 'Run'
 
+[^ Back to top](https://github.com/admyrick/rg557/#anbernic-rg557)
+
 ## Emulators/Games
 - GoWII @ 3x using NetherSX 1.8 (4248)
 - Burnout 3 @ 1x using NetherSX 1.8 (4248)
 - Super Mario 3D World: Handheld Mode, .75x res, Suyu
 
-## microSD Cards
+[^ Back to top](https://github.com/admyrick/rg557/#anbernic-rg557)
 
 ## Resources
 - [RG557 - Retro Handhelds Discord](https://discord.com/channels/741895796315914271/1359106082781266044)
+
+[^ Back to top](https://github.com/admyrick/rg557/#anbernic-rg557)
